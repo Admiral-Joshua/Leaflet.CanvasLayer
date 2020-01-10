@@ -1,0 +1,14 @@
+{
+  "name": "leaflet-canvas",
+  "version": "1.0.0",
+  "description": "Canvas Overlay for rendering of markers in Leaflet.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lunasphere Entertainment",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "leaflet": "^1.6.0"
+  }
+}
